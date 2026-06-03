@@ -1,7 +1,7 @@
 # Agnicode Technologies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Agnicode-Technologies/.github/main/profile/agnicode_banner.png" alt="Agnicode Technologies Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Agnicode-Technologies/.github/main/profile/agnicode_banner.jpg" alt="Agnicode Technologies Banner" width="100%">
 </p>
 
 ## Engineering the Future of Business Software 🚀
