@@ -1,7 +1,7 @@
 # Agnicode Technologies
 
 <p align="center">
-  <img src="profile/agnicode_banner.png" alt="Agnicode Technologies Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Agnicode-Technologies/.github/main/profile/agnicode_banner.png" alt="Agnicode Technologies Banner" width="100%">
 </p>
 
 ## Engineering the Future of Business Software 🚀
@@ -42,8 +42,8 @@ We believe in high autonomy, clean code, comprehensive automated testing, and de
 
 ### 📫 Connect With Us
 
-- **Website**: [agnicode.com](https://agnicode.com)
-- **Email**: [hello@agnicode.com](mailto:hello@agnicode.com)
+- **Website**: [agnicodetechnologies.com](https://agnicodetechnologies.com)
+- **Email**: [contact@agnicodetechnologies.com](mailto:contact@agnicodetechnologies.com)
 
 ---
 <p align="center">
